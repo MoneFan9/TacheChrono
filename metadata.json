@@ -1,0 +1,5 @@
+{
+  "name": "TodoListGab",
+  "description": "Une application de liste de tâches intelligente avec vue calendrier et gestion assistée par IA.",
+  "requestFramePermissions": []
+}
